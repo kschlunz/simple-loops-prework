@@ -38,7 +38,7 @@ def while_iterator(number_of_times)
   end
   # code your solution here using the "while" keyword
   # hint: user a counter to tell the while loop when to stop!
-  
+
 
 end
 
